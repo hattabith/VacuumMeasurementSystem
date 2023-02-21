@@ -1,0 +1,15 @@
+C:\Users\Dmitriy\source\repos\VacuumMeasurmentSystem\VacuumLoggerVIT2\VacuumLoggerVIT2\bin\Debug\net6.0\VacuumLoggerVIT2.exe
+C:\Users\Dmitriy\source\repos\VacuumMeasurmentSystem\VacuumLoggerVIT2\VacuumLoggerVIT2\bin\Debug\net6.0\VacuumLoggerVIT2.deps.json
+C:\Users\Dmitriy\source\repos\VacuumMeasurmentSystem\VacuumLoggerVIT2\VacuumLoggerVIT2\bin\Debug\net6.0\VacuumLoggerVIT2.runtimeconfig.json
+C:\Users\Dmitriy\source\repos\VacuumMeasurmentSystem\VacuumLoggerVIT2\VacuumLoggerVIT2\bin\Debug\net6.0\VacuumLoggerVIT2.dll
+C:\Users\Dmitriy\source\repos\VacuumMeasurmentSystem\VacuumLoggerVIT2\VacuumLoggerVIT2\bin\Debug\net6.0\VacuumLoggerVIT2.pdb
+C:\Users\Dmitriy\source\repos\VacuumMeasurmentSystem\VacuumLoggerVIT2\VacuumLoggerVIT2\obj\Debug\net6.0\VacuumLoggerVIT2.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\source\repos\VacuumMeasurmentSystem\VacuumLoggerVIT2\VacuumLoggerVIT2\obj\Debug\net6.0\VacuumLoggerVIT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitriy\source\repos\VacuumMeasurmentSystem\VacuumLoggerVIT2\VacuumLoggerVIT2\obj\Debug\net6.0\VacuumLoggerVIT2.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\source\repos\VacuumMeasurmentSystem\VacuumLoggerVIT2\VacuumLoggerVIT2\obj\Debug\net6.0\VacuumLoggerVIT2.AssemblyInfo.cs
+C:\Users\Dmitriy\source\repos\VacuumMeasurmentSystem\VacuumLoggerVIT2\VacuumLoggerVIT2\obj\Debug\net6.0\VacuumLoggerVIT2.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\VacuumMeasurmentSystem\VacuumLoggerVIT2\VacuumLoggerVIT2\obj\Debug\net6.0\VacuumLoggerVIT2.dll
+C:\Users\Dmitriy\source\repos\VacuumMeasurmentSystem\VacuumLoggerVIT2\VacuumLoggerVIT2\obj\Debug\net6.0\refint\VacuumLoggerVIT2.dll
+C:\Users\Dmitriy\source\repos\VacuumMeasurmentSystem\VacuumLoggerVIT2\VacuumLoggerVIT2\obj\Debug\net6.0\VacuumLoggerVIT2.pdb
+C:\Users\Dmitriy\source\repos\VacuumMeasurmentSystem\VacuumLoggerVIT2\VacuumLoggerVIT2\obj\Debug\net6.0\VacuumLoggerVIT2.genruntimeconfig.cache
+C:\Users\Dmitriy\source\repos\VacuumMeasurmentSystem\VacuumLoggerVIT2\VacuumLoggerVIT2\obj\Debug\net6.0\ref\VacuumLoggerVIT2.dll
