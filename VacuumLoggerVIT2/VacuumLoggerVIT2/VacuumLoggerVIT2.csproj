@@ -14,7 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="VacuumLogger.Application\Interfaces\" />
     <Folder Include="VacuumLogger.Application\Exceptions\" />
     <Folder Include="VacuumLogger.Core\Interfaces\" />
     <Folder Include="VacuumLogger.Core\Exceptions\" />
