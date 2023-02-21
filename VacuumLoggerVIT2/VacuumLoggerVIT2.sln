@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacuumLoggerVIT2", "VacuumLoggerVIT2\VacuumLoggerVIT2.csproj", "{30035B8C-7340-4198-AEFA-489A9C427E61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacuumLogger.Tests", "VacuumLoggerVIT2\VacuumLogger.Tests\VacuumLogger.Tests\VacuumLogger.Tests.csproj", "{17DCF73A-E86E-45F5-A2B9-BCA4692592B5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{30035B8C-7340-4198-AEFA-489A9C427E61} = {30035B8C-7340-4198-AEFA-489A9C427E61}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30035B8C-7340-4198-AEFA-489A9C427E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30035B8C-7340-4198-AEFA-489A9C427E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30035B8C-7340-4198-AEFA-489A9C427E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30035B8C-7340-4198-AEFA-489A9C427E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17DCF73A-E86E-45F5-A2B9-BCA4692592B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17DCF73A-E86E-45F5-A2B9-BCA4692592B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17DCF73A-E86E-45F5-A2B9-BCA4692592B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17DCF73A-E86E-45F5-A2B9-BCA4692592B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {037715D2-6492-4D85-BD61-21F2F391BBD8}
+	EndGlobalSection
+EndGlobal
