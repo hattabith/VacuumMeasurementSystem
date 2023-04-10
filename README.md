@@ -134,3 +134,18 @@ graph TD;
     B-->D;
     C-->D;
 ```
+
+```mermaid
+classDiagram
+    class ClassName {
+        +attribute1: Type
+        +attribute2: Type
+        +method1(): ReturnType
+        +method2(param1: Type, param2: Type): ReturnType
+    }
+
+    ClassName --|> AnotherClassName : Inheritance
+    ClassName <-- AnotherClassName : Association
+    ClassName "1" -- "0..*" AnotherClassName : Aggregation
+    ClassName "1" o- "0..*" AnotherClassName : Composition
+```
